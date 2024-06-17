@@ -3,6 +3,7 @@
 ### Tutorial to use this webservice
 
 * [Swagger APIs documentation](http://localhost:8080/swagger-ui.html)
+* [To clean and download dependencies use this command line] ./mvnw clean install -e
 * [To run the app use this command line] ./mvnw spring-boot:run
 * [To run tests use this command line] ./mvnw test
 * [Log file myapp.log located at the root]
